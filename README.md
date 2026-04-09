@@ -19,8 +19,7 @@
 </p>
 
 <p align="center">
-  <img width="46%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJkNDZxN29xMHJncnZnNzF1d2QyeTBxNDN1b3F1bDZqYzBvZThnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif" alt="Coding GIF" />
-  <img width="46%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJkNDZxN29xMHJncnZnNzF1d2QyeTBxNDN1b3F1bDZqYzBvZThnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif" alt="Developer GIF" />
+  <img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJkNDZxN29xMHJncnZnNzF1d2QyeTBxNDN1b3F1bDZqYzBvZThnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif" alt="Coding GIF" />
 </p>
 
 ## Tech Stack
