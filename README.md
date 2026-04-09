@@ -17,17 +17,10 @@
   <img src="https://komarev.com/ghpvc/?username=TangPiseth&style=for-the-badge&color=8b0000" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/wTPdymD.gif" width="100%" alt="blood drip divider" />
-</p>
-
 ## ⚙️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,js,vue,nodejs,express,laravel,lua,postgres,kotlin,androidstudio,firebase,git)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://i.imgur.com/wTPdymD.gif" width="100%" alt="blood drip divider" />
-</p>
 
 ## 🆕 Newest Projects
 
@@ -57,10 +50,6 @@ Travel platform
 
 Mobile app  
 
-<p align="center">
-  <img src="https://i.imgur.com/wTPdymD.gif" width="100%" alt="blood drip divider" />
-</p>
-
 ## 📊 Statistics
 
 <p align="center">
@@ -69,24 +58,12 @@ Mobile app
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/wTPdymD.gif" width="100%" alt="blood drip divider" />
-</p>
-
-<p align="center">
   <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TangPiseth&theme=github_dark" alt="Top Languages by Repo" />
   <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TangPiseth&theme=github_dark" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/wTPdymD.gif" width="100%" alt="blood drip divider" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TangPiseth&theme=github_dark" alt="Contribution Graph" style="height: 300px" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/wTPdymD.gif" width="100%" alt="blood drip divider" />
 </p>
 
 ## 📫 Contact
@@ -107,8 +84,4 @@ Mobile app
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0d0000,35:1a0000,70:8b0000,100:dc2626" alt="Footer" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/wTPdymD.gif" width="100%" alt="blood drip divider" />
 </p>
