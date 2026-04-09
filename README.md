@@ -63,15 +63,15 @@
 
 <p align="left">
   <a href="mailto:Piseth2377@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Piseth2377%40gmail.com-red?style=flat-square&logo=gmail">
-  </a><br>
+    <img src="https://img.shields.io/badge/Email-Piseth2377%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a><br><br>
 
   <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-get__sharked-5865F2?style=flat-square&logo=discord">
-  </a><br>
+    <img src="https://img.shields.io/badge/Discord-get__sharked-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a><br><br>
 
   <a href="https://github.com/TangPiseth">
-    <img src="https://img.shields.io/badge/GitHub-TangPiseth-black?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-TangPiseth-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
