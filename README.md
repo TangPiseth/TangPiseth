@@ -17,8 +17,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+clean+and+scalable+full+stack+apps;Always+learning%2C+and+always+improving" alt="Typing Intro" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## ⚙️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,js,vue,nodejs,express,laravel,lua,postgres,kotlin,androidstudio,firebase,git)](https://skillicons.dev)
