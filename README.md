@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Tang Piseth.</h1>
-<h3 align="center">A Full Stack Developer.</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8&text=Welcome%20to%20my%20profile&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=39&desc=Cooking%20thoughtful%20website%20experiences&descAlignY=58&descAlign=50" alt="Banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+clean+and+scalable+full+stack+apps;Always+cooking%2C+and+still+cooking" alt="Typing Intro" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8&text=Welcome%20to%20my%20profile&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=39&desc=Cooking%20thoughtful%20website%20experiences&descAlignY=58&descAlign=50" alt="Banner" />
-</p>
+<h1 align="center">Hi 👋, I'm Tang Piseth.</h1>
+<h3 align="center">A Full Stack Developer.</h3>
 
 <p align="center">
   <a href="https://github.com/TangPiseth">
