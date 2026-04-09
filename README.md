@@ -24,31 +24,7 @@
 
 ## 🆕 Newest Projects
 
-[![Tourism](https://img.shields.io/badge/Tourism--Site-1a0000?style=for-the-badge&logo=github&logoColor=ff4444)](https://github.com/TangPiseth/Tourism-site)
-![Laravel](https://img.shields.io/badge/Laravel-8b0000?style=flat-square&logo=laravel&logoColor=white)
-
-Tourism web experience project  
-
----
-
-[![EatsBuddy](https://img.shields.io/badge/EatsBuddy--Web-1a0000?style=for-the-badge&logo=github&logoColor=ff4444)](https://github.com/TangPiseth/Food-Planner)
-[![Vue](https://img.shields.io/badge/Vue-8b0000?style=for-the-badge&logo=vue.js&logoColor=white)]()
-
-Food planning app  
-
----
-
-[![EasyTravels](https://img.shields.io/badge/EasyTravels-1a0000?style=for-the-badge&logo=github&logoColor=ff4444)](https://github.com/TangPiseth/EasyTravels)
-[![Vue](https://img.shields.io/badge/Vue-8b0000?style=for-the-badge&logo=vue.js&logoColor=white)]()
-
-Travel platform  
-
----
-
-[![EatsBuddy App](https://img.shields.io/badge/EatsBuddy--Android-1a0000?style=for-the-badge&logo=github&logoColor=ff4444)](https://github.com/TangPiseth/EatsBuddy)
-[![Kotlin](https://img.shields.io/badge/Kotlin-8b0000?style=for-the-badge&logo=kotlin&logoColor=white)]()
-
-Mobile app  
+| Project | Description | Language | |---|---|---| | [Tourism-site](https://github.com/TangPiseth/Tourism-site) | Tourism web experience project | Laravel | | [EatsBuddy Website](https://github.com/TangPiseth/Food-Planner) | Food planning and organization app | Vue | | [EasyTravels](https://github.com/TangPiseth/EasyTravels) | Travel-focused platform concept | Vue | | [EatsBuddy Android](https://github.com/TangPiseth/EatsBuddy) | Food and companion mobile app concept | Kotlin |
 
 ## 📊 Statistics
 
