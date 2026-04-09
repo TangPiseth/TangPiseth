@@ -27,35 +27,31 @@
 
 ## 🆕 Newest Projects
 
-### 🌍 Tourism Site
-[![Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/Tourism-site)
-![Laravel](https://img.shields.io/badge/Laravel-Framework-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+[![Tourism](https://img.shields.io/badge/Tourism--Site-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/Tourism-site)
+[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)]()
 
-> Tourism web experience project  
-
----
-
-### 🍔 EatsBuddy Website
-[![Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/Food-Planner)
-![Vue](https://img.shields.io/badge/Vue.js-Frontend-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
-> Food planning and organization app  
+Tourism web experience project  
 
 ---
 
-### ✈️ EasyTravels
-[![Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/EasyTravels)
-![Vue](https://img.shields.io/badge/Vue.js-App-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+[![EatsBuddy](https://img.shields.io/badge/EatsBuddy--Web-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/Food-Planner)
+[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)]()
 
-> Travel-focused platform concept  
+Food planning app  
 
 ---
 
-### 📱 EatsBuddy Android
-[![Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/EatsBuddy)
-![Kotlin](https://img.shields.io/badge/Kotlin-Mobile-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+[![EasyTravels](https://img.shields.io/badge/EasyTravels-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/EasyTravels)
+[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)]()
 
-> Food and companion mobile app concept  
+Travel platform  
+
+---
+
+[![EatsBuddy App](https://img.shields.io/badge/EatsBuddy--Android-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/EatsBuddy)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)]()
+
+Mobile app  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
