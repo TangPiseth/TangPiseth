@@ -18,6 +18,8 @@
   <img src="https://komarev.com/ghpvc/?username=TangPiseth&style=for-the-badge&color=1f6feb" alt="Profile Views" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Tech Stack
 
 <p>
@@ -32,6 +34,8 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Newest Projects
 
 | Project | Description | Language |
@@ -41,12 +45,16 @@
 | [EasyTravels](https://github.com/TangPiseth/EasyTravels) | Travel-focused platform concept | Vue |
 | [EatsBuddy Android](https://github.com/TangPiseth/EatsBuddy) | Food and companion mobile app concept | Kotlin |
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Most Anticipated Projects
 
 - Cambodia Travel Website: Smart travel guide for Cambodia with maps and planning tools.
 - EatBuddy Web: Advanced recipe and meal planner web app with Vue.
 - EatBuddy Android: Kotlin app for personal meal planning and nutrition tracking.
 - EasyTravel Website: A Traveling guide mini website built on VueJS.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Statistics
 
@@ -63,9 +71,13 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TangPiseth&theme=github_dark" alt="Top Languages by Commit" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TangPiseth&theme=github_dark" alt="Contribution Graph" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Contact
 
@@ -76,3 +88,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8" alt="Footer" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
