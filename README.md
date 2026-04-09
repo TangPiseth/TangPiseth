@@ -51,11 +51,9 @@
 ## Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TangPiseth&theme=github_dark" alt="Stats Card" />
-</p>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TangPiseth&theme=github_dark" alt="Stats Card" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TangPiseth&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TangPiseth&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
