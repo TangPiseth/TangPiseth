@@ -1,101 +1,114 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8&text=Welcome%20to%20my%20profile&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=39&desc=Cooking%20thoughtful%20website%20experiences&descAlignY=58&descAlign=50" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d0000,35:1a0000,70:8b0000,100:dc2626&text=Welcome%20to%20my%20profile&fontColor=ff4444&fontSize=44&animation=fadeIn&fontAlignY=39&desc=Cooking%20thoughtful%20website%20experiences&descAlignY=58&descAlign=50" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+clean+and+scalable+full+stack+apps;Always+cooking%2C+and+still+cooking" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=FF2222&center=true&vCenter=true&width=760&lines=Building+clean+and+scalable+full+stack+apps;Always+cooking%2C+and+still+cooking" alt="Typing Intro" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tang Piseth.</h1>
 
 <p align="center">
   <a href="https://github.com/TangPiseth">
-    <img src="https://img.shields.io/badge/GitHub-TangPiseth-0b1220?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-TangPiseth-1a0000?style=for-the-badge&logo=github&logoColor=ff4444" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0f172a?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Role" />
-  <img src="https://img.shields.io/badge/From-Cambodia-0f172a?style=for-the-badge" alt="From Cambodia" />
-  <img src="https://komarev.com/ghpvc/?username=TangPiseth&style=for-the-badge&color=1f6feb" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-1a0000?style=for-the-badge&logo=codeigniter&logoColor=ff4444" alt="Role" />
+  <img src="https://img.shields.io/badge/From-Cambodia-1a0000?style=for-the-badge&logoColor=ff4444" alt="From Cambodia" />
+  <img src="https://komarev.com/ghpvc/?username=TangPiseth&style=for-the-badge&color=8b0000" alt="Profile Views" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://i.imgur.com/wTPdymD.gif" width="100%" alt="blood drip divider" />
+</p>
 
 ## ⚙️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,js,vue,nodejs,express,laravel,lua,postgres,kotlin,androidstudio,firebase,git)](https://skillicons.dev)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://i.imgur.com/wTPdymD.gif" width="100%" alt="blood drip divider" />
+</p>
 
 ## 🆕 Newest Projects
 
-[![Tourism](https://img.shields.io/badge/Tourism--Site-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/Tourism-site)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+[![Tourism](https://img.shields.io/badge/Tourism--Site-1a0000?style=for-the-badge&logo=github&logoColor=ff4444)](https://github.com/TangPiseth/Tourism-site)
+![Laravel](https://img.shields.io/badge/Laravel-8b0000?style=flat-square&logo=laravel&logoColor=white)
 
 Tourism web experience project  
 
 ---
 
-[![EatsBuddy](https://img.shields.io/badge/EatsBuddy--Web-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/Food-Planner)
-[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)]()
+[![EatsBuddy](https://img.shields.io/badge/EatsBuddy--Web-1a0000?style=for-the-badge&logo=github&logoColor=ff4444)](https://github.com/TangPiseth/Food-Planner)
+[![Vue](https://img.shields.io/badge/Vue-8b0000?style=for-the-badge&logo=vue.js&logoColor=white)]()
 
 Food planning app  
 
 ---
 
-[![EasyTravels](https://img.shields.io/badge/EasyTravels-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/EasyTravels)
-[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)]()
+[![EasyTravels](https://img.shields.io/badge/EasyTravels-1a0000?style=for-the-badge&logo=github&logoColor=ff4444)](https://github.com/TangPiseth/EasyTravels)
+[![Vue](https://img.shields.io/badge/Vue-8b0000?style=for-the-badge&logo=vue.js&logoColor=white)]()
 
 Travel platform  
 
 ---
 
-[![EatsBuddy App](https://img.shields.io/badge/EatsBuddy--Android-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/EatsBuddy)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![EatsBuddy App](https://img.shields.io/badge/EatsBuddy--Android-1a0000?style=for-the-badge&logo=github&logoColor=ff4444)](https://github.com/TangPiseth/EatsBuddy)
+[![Kotlin](https://img.shields.io/badge/Kotlin-8b0000?style=for-the-badge&logo=kotlin&logoColor=white)]()
 
 Mobile app  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://i.imgur.com/wTPdymD.gif" width="100%" alt="blood drip divider" />
+</p>
 
 ## 📊 Statistics
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TangPiseth&theme=github_dark" alt="Stats Card" />
-
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TangPiseth&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TangPiseth&theme=dark&hide_border=true&ring=ff2222&fire=dc2626&currStreakLabel=ff4444&sideLabels=ff4444&dates=cc0000" alt="Streak Stats" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://i.imgur.com/wTPdymD.gif" width="100%" alt="blood drip divider" />
+</p>
 
 <p align="center">
   <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TangPiseth&theme=github_dark" alt="Top Languages by Repo" />
   <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TangPiseth&theme=github_dark" alt="Top Languages by Commit" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://i.imgur.com/wTPdymD.gif" width="100%" alt="blood drip divider" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TangPiseth&theme=github_dark" alt="Contribution Graph" style="height: 300px" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://i.imgur.com/wTPdymD.gif" width="100%" alt="blood drip divider" />
+</p>
 
 ## 📫 Contact
 
 <p align="left">
   <a href="mailto:Piseth2377@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Piseth2377%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Piseth2377%40gmail.com-8b0000?style=for-the-badge&logo=gmail&logoColor=white">
   </a><br><br>
 
   <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-get__sharked-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-get__sharked-8b0000?style=for-the-badge&logo=discord&logoColor=white">
   </a><br><br>
 
   <a href="https://github.com/TangPiseth">
-    <img src="https://img.shields.io/badge/GitHub-TangPiseth-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-TangPiseth-1a0000?style=for-the-badge&logo=github&logoColor=ff4444">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0d0000,35:1a0000,70:8b0000,100:dc2626" alt="Footer" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://i.imgur.com/wTPdymD.gif" width="100%" alt="blood drip divider" />
+</p>
