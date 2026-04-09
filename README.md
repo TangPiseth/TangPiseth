@@ -22,17 +22,7 @@
 
 ## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,vue,nodejs,php,laravel,lua,postgres,kotlin,androidstudio,firebase,git)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -40,19 +30,10 @@
 
 | Project | Description | Language |
 |---|---|---|
-| [Tourism-site](https://github.com/TangPiseth/Tourism-site) | Tourism web experience project | Blade |
+| [Tourism-site](https://github.com/TangPiseth/Tourism-site) | Tourism web experience project | Laravel |
 | [EatsBuddy Website](https://github.com/TangPiseth/Food-Planner) | Food planning and organization app | Vue |
 | [EasyTravels](https://github.com/TangPiseth/EasyTravels) | Travel-focused platform concept | Vue |
 | [EatsBuddy Android](https://github.com/TangPiseth/EatsBuddy) | Food and companion mobile app concept | Kotlin |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Most Anticipated Projects
-
-- Cambodia Travel Website: Smart travel guide for Cambodia with maps and planning tools.
-- EatBuddy Web: Advanced recipe and meal planner web app with Vue.
-- EatBuddy Android: Kotlin app for personal meal planning and nutrition tracking.
-- EasyTravel Website: A Traveling guide mini website built on VueJS.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
