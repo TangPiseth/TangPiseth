@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tang Piseth.</h1>
+<h1 align="center">Hi 👋, I'm Tang Piseth.</h1>
 <h3 align="center">A Full Stack Developer.</h3>
 
 <p align="center">
@@ -37,9 +37,9 @@
 | Project | Description | Language |
 |---|---|---|
 | [Tourism-site](https://github.com/TangPiseth/Tourism-site) | Tourism web experience project | Blade |
-| [Food-Planner](https://github.com/TangPiseth/Food-Planner) | Food planning and organization app | Vue |
+| [EatsBuddy Website](https://github.com/TangPiseth/Food-Planner) | Food planning and organization app | Vue |
 | [EasyTravels](https://github.com/TangPiseth/EasyTravels) | Travel-focused platform concept | Vue |
-| [EatsBuddy](https://github.com/TangPiseth/EatsBuddy) | Food and companion mobile app concept | Kotlin |
+| [EatsBuddy Android](https://github.com/TangPiseth/EatsBuddy) | Food and companion mobile app concept | Kotlin |
 
 ## Most Anticipated Projects
 
