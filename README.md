@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d0000,35:1a0000,70:8b0000,100:dc2626&text=Welcome%20to%20my%20profile&fontColor=ff4444&fontSize=44&animation=fadeIn&fontAlignY=39&desc=Cooking%20thoughtful%20website%20experiences&descAlignY=58&descAlign=50" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d0000,35:1a0000,70:8b0000,100:dc2626&text=Welcome%20to%20my%20profile&fontColor=ff4444&fontSize=44&animation=fadeIn&fontAlignY=39&desc=Building%20thoughtful%20website%20experiences&descAlignY=58&descAlign=50" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=FF2222&center=true&vCenter=true&width=760&lines=Building+clean+and+scalable+full+stack+apps;Always+cooking%2C+and+still+cooking" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=FF2222&center=true&vCenter=true&width=760&lines=Building+clean+and+scalable+full+stack+apps;Always+learning%2C+and+always+improving" alt="Typing Intro" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tang Piseth.</h1>
