@@ -61,9 +61,9 @@
 
 ## Contact
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) Piseth2377@gmail.com
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) get_sharked
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) https://github.com/TangPiseth
+[![Gmail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) Piseth2377@gmail.com<br>
+[![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) get_sharked<br>
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) https://github.com/TangPiseth
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8" alt="Footer" />
