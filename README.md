@@ -22,9 +22,14 @@
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,js,vue,nodejs,express,laravel,lua,postgres,kotlin,androidstudio,firebase,git)](https://skillicons.dev)
 
 
-## 🆕 Newest Projects
+## 🆕 Projects
 
-| Project | Description | Language | |---|---|---| | [Tourism-site](https://github.com/TangPiseth/Tourism-site) | Tourism web experience project | Laravel | | [EatsBuddy Website](https://github.com/TangPiseth/Food-Planner) | Food planning and organization app | Vue | | [EasyTravels](https://github.com/TangPiseth/EasyTravels) | Travel-focused platform concept | Vue | | [EatsBuddy Android](https://github.com/TangPiseth/EatsBuddy) | Food and companion mobile app concept | Kotlin |
+| Project | Description | Language |
+|---|---|---|
+| [Tourism-site](https://github.com/TangPiseth/Tourism-site) | Tourism web experience project | Laravel |
+| [EatsBuddy Website](https://github.com/TangPiseth/Food-Planner) | Food planning and organization app | Vue |
+| [EasyTravels](https://github.com/TangPiseth/EasyTravels) | Travel-focused platform concept | Vue |
+| [EatsBuddy Android](https://github.com/TangPiseth/EatsBuddy) | Food and companion mobile app concept | Kotlin |
 
 ## 📊 Statistics
 
