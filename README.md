@@ -19,24 +19,47 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,js,vue,nodejs,laravel,lua,postgres,kotlin,androidstudio,firebase,git)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Newest Projects
+## 🆕 Newest Projects
 
-| Project | Description | Language |
-|---|---|---|
-| [Tourism-site](https://github.com/TangPiseth/Tourism-site) | Tourism web experience project | Laravel |
-| [EatsBuddy Website](https://github.com/TangPiseth/Food-Planner) | Food planning and organization app | Vue |
-| [EasyTravels](https://github.com/TangPiseth/EasyTravels) | Travel-focused platform concept | Vue |
-| [EatsBuddy Android](https://github.com/TangPiseth/EatsBuddy) | Food and companion mobile app concept | Kotlin |
+### 🌍 Tourism Site
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/Tourism-site)
+![Laravel](https://img.shields.io/badge/Laravel-Framework-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+> Tourism web experience project  
+
+---
+
+### 🍔 EatsBuddy Website
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/Food-Planner)
+![Vue](https://img.shields.io/badge/Vue.js-Frontend-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+> Food planning and organization app  
+
+---
+
+### ✈️ EasyTravels
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/EasyTravels)
+![Vue](https://img.shields.io/badge/Vue.js-App-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+> Travel-focused platform concept  
+
+---
+
+### 📱 EatsBuddy Android
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/TangPiseth/EatsBuddy)
+![Kotlin](https://img.shields.io/badge/Kotlin-Mobile-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+> Food and companion mobile app concept  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Statistics
+## 📊 Statistics
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TangPiseth&theme=github_dark" alt="Stats Card" />
