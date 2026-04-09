@@ -27,7 +27,7 @@
 
 ## 🆕 Newest Projects
 
-- 🌍 **[Cambodia Travel](https://github.com/TangPiseth/Tourism-site)**  
+- 🌍 **[Tourism Site](https://github.com/TangPiseth/Tourism-site)**  
   Tourism web experience project  
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
