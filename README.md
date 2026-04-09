@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <img width="46%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI4ZHJ5ZDF3Z2NpbjQ3ajVoY3E3ZG4xdWhzZjhja2x1eHNsNW03dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" alt="Coding GIF" />
-  <img width="46%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI4ZHJ5ZDF3Z2NpbjQ3ajVoY3E3ZG4xdWhzZjhja2x1eHNsNW03dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" alt="Developer GIF" />
+  <img width="46%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJkNDZxN29xMHJncnZnNzF1d2QyeTBxNDN1b3F1bDZqYzBvZThnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif" alt="Coding GIF" />
+  <img width="46%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJkNDZxN29xMHJncnZnNzF1d2QyeTBxNDN1b3F1bDZqYzBvZThnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif" alt="Developer GIF" />
 </p>
 
 ## Tech Stack
