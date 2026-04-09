@@ -3,11 +3,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Tang Piseth.</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=FF2222&center=true&vCenter=true&width=760&lines=Building+clean+and+scalable+full+stack+apps;Always+learning%2C+and+always+improving" alt="Typing Intro" />
-</p>
-
 <p align="center">
   <a href="https://github.com/TangPiseth">
     <img src="https://img.shields.io/badge/GitHub-TangPiseth-1a0000?style=for-the-badge&logo=github&logoColor=ff4444" alt="GitHub" />
@@ -15,6 +10,10 @@
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-1a0000?style=for-the-badge&logo=codeigniter&logoColor=ff4444" alt="Role" />
   <img src="https://img.shields.io/badge/From-Cambodia-1a0000?style=for-the-badge&logoColor=ff4444" alt="From Cambodia" />
   <img src="https://komarev.com/ghpvc/?username=TangPiseth&style=for-the-badge&color=8b0000" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=FF2222&center=true&vCenter=true&width=760&lines=Building+clean+and+scalable+full+stack+apps;Always+learning%2C+and+always+improving" alt="Typing Intro" />
 </p>
 
 ## ⚙️ Tech Stack
