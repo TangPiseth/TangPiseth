@@ -59,11 +59,21 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Contact
+## 📫 Contact
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) Piseth2377@gmail.com<br>
-[![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) get_sharked<br>
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) https://github.com/TangPiseth
+<p align="left">
+  <a href="mailto:Piseth2377@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Piseth2377%40gmail.com-red?style=flat-square&logo=gmail">
+  </a><br>
+
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-get__sharked-5865F2?style=flat-square&logo=discord">
+  </a><br>
+
+  <a href="https://github.com/TangPiseth">
+    <img src="https://img.shields.io/badge/GitHub-TangPiseth-black?style=flat-square&logo=github">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8" alt="Footer" />
